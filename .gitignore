@@ -1,0 +1,9 @@
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+* shp.xml
+*.xml
